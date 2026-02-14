@@ -1,7 +1,7 @@
 {
     "name": "appkit/cache",
     "type": "library",
-    "description": "Common cache interface for the AppKit framework",
+    "description": "Core cache abstractions for the AppKit framework",
     "license": "MIT",
     "autoload": {
         "psr-4": {
