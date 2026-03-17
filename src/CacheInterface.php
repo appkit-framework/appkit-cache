@@ -10,6 +10,6 @@ interface CacheInterface {
     public function increment($key, $by = 1);
     public function decrement($key, $by = 1);
 
-    public function delete($key);
+    public function unset($key);
     public function clear();
 }
